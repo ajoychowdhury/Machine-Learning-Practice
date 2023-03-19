@@ -1,5 +1,5 @@
-https://colab.research.google.com/ go through this link and one pop up will show then click on upload button , 
-if it doesn't show up then click file then upload notebook , you can see. After that upload Decision Tree.ipynb file , 
-you can get it from Decision Tree folder. After uploading the ipynb file code will reflect on colab , 
+https://colab.research.google.com/ go through this link and one pop up will show then click on GitHub , 
+https://github.com/ajoychowdhury/Machine-Learning-Practice/blob/main/Machine%20Learning/Decision%20Tree/Decision%20Tree.ipynb  paste this link & click on search icon
+It'll redirect you in colab interface
 for running click shift+enter . 
 part by part , you've to run.
